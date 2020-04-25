@@ -1,2 +1,5 @@
 # DL-from-Scratch2
-ゼロから作るDeepLearning②のお勉強
+
+## 概要
+
+- [ゼロから作るDeepLearning②]()のお勉強リポジトリ
