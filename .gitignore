@@ -3,3 +3,4 @@ DL-from-Scratch2/
 dataset/ptb.train.npy
 dataset/ptb.train.txt
 dataset/ptb.vocab.pkl
+cbow_params.pkl
