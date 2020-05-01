@@ -4,3 +4,6 @@ dataset/ptb.train.npy
 dataset/ptb.train.txt
 dataset/ptb.vocab.pkl
 cbow_params.pkl
+Rnnlm.pkl
+BetterRnnlm.pkl
+.vscode/
